@@ -1,0 +1,36 @@
+c:\users\08087\documents\visual studio 2015\Projects\kursServer\kursServer\bin\Debug\kursServer.exe.config
+c:\users\08087\documents\visual studio 2015\Projects\kursServer\kursServer\obj\Debug\kursServer.csprojResolveAssemblyReference.cache
+c:\users\08087\documents\visual studio 2015\Projects\kursServer\kursServer\bin\Debug\kursServer.exe
+c:\users\08087\documents\visual studio 2015\Projects\kursServer\kursServer\bin\Debug\kursServer.pdb
+c:\users\08087\documents\visual studio 2015\Projects\kursServer\kursServer\obj\Debug\kursServer.exe
+c:\users\08087\documents\visual studio 2015\Projects\kursServer\kursServer\obj\Debug\kursServer.pdb
+C:\Users\08087\Documents\Kurs\kursServer\kursServer\bin\Debug\kursServer.exe.config
+C:\Users\08087\Documents\Kurs\kursServer\kursServer\obj\Debug\kursServer.exe
+C:\Users\08087\Documents\Kurs\kursServer\kursServer\obj\Debug\kursServer.pdb
+C:\Users\08087\Documents\Kurs\kursServer\kursServer\bin\Debug\kursServer.exe
+C:\Users\08087\Documents\Kurs\kursServer\kursServer\bin\Debug\kursServer.pdb
+C:\Users\08087\Documents\Kurs\kursServer\kursServer\obj\Debug\kursServer.csprojResolveAssemblyReference.cache
+E:\TMP\Kurs\kursServer\kursServer\bin\Debug\kursServer.exe.config
+E:\TMP\Kurs\kursServer\kursServer\obj\Debug\kursServer.exe
+E:\TMP\Kurs\kursServer\kursServer\obj\Debug\kursServer.pdb
+E:\TMP\Kurs\kursServer\kursServer\bin\Debug\kursServer.exe
+E:\TMP\Kurs\kursServer\kursServer\bin\Debug\kursServer.pdb
+E:\TMP\Kurs\kursServer\kursServer\obj\Debug\kursServer.csprojResolveAssemblyReference.cache
+C:\Users\08087\Documents\TMP\kursServer\kursServer\bin\Debug\kursServer.exe.config
+C:\Users\08087\Documents\TMP\kursServer\kursServer\obj\Debug\kursServer.exe
+C:\Users\08087\Documents\TMP\kursServer\kursServer\obj\Debug\kursServer.pdb
+C:\Users\08087\Documents\TMP\kursServer\kursServer\obj\Debug\kursServer.csprojResolveAssemblyReference.cache
+C:\Users\08087\Documents\TMP\kursServer\kursServer\bin\Debug\kursServer.exe
+C:\Users\08087\Documents\TMP\kursServer\kursServer\bin\Debug\kursServer.pdb
+C:\Users\08087\Documents\Kurs\Last\kursServer\kursServer\bin\Debug\kursServer.exe.config
+C:\Users\08087\Documents\Kurs\Last\kursServer\kursServer\obj\Debug\kursServer.exe
+C:\Users\08087\Documents\Kurs\Last\kursServer\kursServer\obj\Debug\kursServer.pdb
+C:\Users\08087\Documents\Kurs\Last\kursServer\kursServer\bin\Debug\kursServer.exe
+C:\Users\08087\Documents\Kurs\Last\kursServer\kursServer\bin\Debug\kursServer.pdb
+C:\Users\08087\Documents\Kurs\Last\kursServer\kursServer\obj\Debug\kursServer.csprojResolveAssemblyReference.cache
+C:\Users\08087\Documents\Kurs\Kurs\kursServer\kursServer\bin\Debug\kursServer.exe.config
+C:\Users\08087\Documents\Kurs\Kurs\kursServer\kursServer\obj\Debug\kursServer.exe
+C:\Users\08087\Documents\Kurs\Kurs\kursServer\kursServer\obj\Debug\kursServer.pdb
+C:\Users\08087\Documents\Kurs\Kurs\kursServer\kursServer\bin\Debug\kursServer.exe
+C:\Users\08087\Documents\Kurs\Kurs\kursServer\kursServer\bin\Debug\kursServer.pdb
+C:\Users\08087\Documents\Kurs\Kurs\kursServer\kursServer\obj\Debug\kursServer.csprojResolveAssemblyReference.cache

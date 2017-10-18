@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<logicalClassDesignerModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm4="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm5="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/ModelStore" dslVersion="1.0.0.0" Id="03f6387e-d19d-4542-ae3e-73f58d5e45ac" name="UMLClassDiagram1" linkedPackageId="0baedb8d-e9dc-42b4-a0a9-ea28e161cda1" xmlns="http://schemas.microsoft.com/dsltools/LogicalClassDesigner">
+  <packagedElements>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="69f49a0e-5a38-4ac9-9290-51f6c96b899d" name="Player" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="ed08b4b2-8928-4a01-9126-a369ad283b10" />
+        <ownedAttributesInternal>
+          <property Id="38ca3c89-5af6-49e1-8978-194001055d5e" name="bombs" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="dff96869-9dd0-4973-be00-d4b26cd2306a" />
+            <type_NamedElement>
+              <referencedTypeMoniker Id="802ecc7f-da54-4ceb-9ecf-19ab3354b07c" LastKnownName="List&lt;Bombs&gt;" />
+            </type_NamedElement>
+          </property>
+          <property Id="25b6bedc-fc02-433c-b7c0-63ae81c32e9a" name="name" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="bae41187-7ce4-473a-a957-b52aeea38155" />
+            <type_NamedElement>
+              <referencedTypeMoniker Id="73b6349f-69d6-494f-b4dc-d27289eac588" LastKnownName="string" />
+            </type_NamedElement>
+          </property>
+          <property Id="75fba4a6-cb7f-4275-91f0-467a15ce1bd9" name="currentPosition" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="35bc8093-7b6f-48f8-9d8f-c94682db0992" />
+            <type_NamedElement>
+              <referencedTypeMoniker Id="15e7d230-dd91-4005-8855-f948ced2c73d" LastKnownName="int" />
+            </type_NamedElement>
+          </property>
+        </ownedAttributesInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="6ca5c08e-0f8e-4985-9114-e4e97dbc8eba" name="Game" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="6b50a324-73c4-402d-9f29-969c549961c8" />
+        <ownedAttributesInternal>
+          <property Id="18000e9b-e3aa-413c-aaf5-7f53198ea2a9" name="players" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="f2972286-deb0-4bec-af10-e298c91efcde" />
+            <type_NamedElement>
+              <referencedTypeMoniker Id="725ae200-3f0d-4173-b54a-e1ae4ab6b904" LastKnownName="List&lt;Player&gt;" />
+            </type_NamedElement>
+          </property>
+        </ownedAttributesInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="433888a1-3d6b-4035-b4d6-46cc6f5a4f50" name="Bombs" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="dca86717-6fa6-4597-880e-2c64f30f4032" />
+        <ownedAttributesInternal>
+          <property Id="9a44dcdf-7b99-4f6b-a2b2-1bcd4e8707f1" name="X" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="9ac11f9d-91e0-4771-af92-ee00919868dd" />
+            <type_NamedElement>
+              <referencedTypeMoniker Id="15e7d230-dd91-4005-8855-f948ced2c73d" LastKnownName="int" />
+            </type_NamedElement>
+          </property>
+          <property Id="57942d26-e432-4cbb-a137-b3eed7be6700" name="Y" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="4e023a1b-84e6-4bd5-ab5d-45b44db96bf5" />
+            <type_NamedElement>
+              <referencedTypeMoniker Id="15e7d230-dd91-4005-8855-f948ced2c73d" LastKnownName="int" />
+            </type_NamedElement>
+          </property>
+        </ownedAttributesInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="1a2469ca-6db3-43fc-a960-387f075dd069" name="ThReadWriter" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="fc1b99f9-319d-4139-8f4f-10df5cf4b230" />
+        <ownedAttributesInternal>
+          <property Id="7f1d7055-3cf9-468b-af74-84b2e0072bf8" name="game" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="94fdd9b3-ff93-4efc-aca4-8c7a1931baf8" />
+            <type_NamedElement>
+              <referencedTypeMoniker Id="c9e4db08-d17b-4042-bc0f-769ef1614566" LastKnownName="Game" />
+            </type_NamedElement>
+          </property>
+        </ownedAttributesInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="b8a0f7db-fb4e-4248-84c2-7ef851b0f804" name="ThreadServer" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="072f61b0-e6a6-4d57-8bd5-4bdddccbef2b" />
+        <ownedAttributesInternal>
+          <property Id="8824482d-e4cd-444e-8fde-a7989bc37539" name="clientMaster:TcpClient" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="3825a0c4-ed29-4832-bcc1-4d8864b83576" />
+          </property>
+          <property Id="fd2bc058-7134-43a8-a429-c5c92f09841f" name="clientSlave" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="902add88-3e2d-4861-8cec-5c10714cd854" />
+            <type_NamedElement>
+              <referencedTypeMoniker Id="a58acdeb-83cc-45e0-be13-58384e452576" LastKnownName="TcpClient" />
+            </type_NamedElement>
+          </property>
+        </ownedAttributesInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <packageHasNamedElement>
+      <referencedType Id="a58acdeb-83cc-45e0-be13-58384e452576" name="TcpClient" isAbstract="false" isLeaf="false" cachedFullName="TcpClient">
+        <elementDefinition Id="174e8ba1-56e7-44d0-989b-d3be21a47cf5" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="15e7d230-dd91-4005-8855-f948ced2c73d" name="int" isAbstract="false" isLeaf="false" cachedFullName="int">
+        <elementDefinition Id="2450e3ab-62d3-43d8-801c-1c3acd5e07dd" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="802ecc7f-da54-4ceb-9ecf-19ab3354b07c" name="List&lt;Bombs&gt;" isAbstract="false" isLeaf="false" cachedFullName="List&lt;Bombs&gt;">
+        <elementDefinition Id="2f67e429-b9f5-447a-be9f-285a2437d040" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="73b6349f-69d6-494f-b4dc-d27289eac588" name="string" isAbstract="false" isLeaf="false" cachedFullName="string">
+        <elementDefinition Id="8e5e755a-a871-4e50-ba88-32d342cf42c6" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="725ae200-3f0d-4173-b54a-e1ae4ab6b904" name="List&lt;Player&gt;" isAbstract="false" isLeaf="false" cachedFullName="List&lt;Player&gt;">
+        <elementDefinition Id="5b494502-8688-4e56-9487-d6a15fbb730b" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="c9e4db08-d17b-4042-bc0f-769ef1614566" name="Game" isAbstract="false" isLeaf="false" cachedFullName="kursServerUml::Game">
+        <elementDefinition Id="6b50a324-73c4-402d-9f29-969c549961c8" />
+      </referencedType>
+    </packageHasNamedElement>
+  </packagedElements>
+  <package Id="0baedb8d-e9dc-42b4-a0a9-ea28e161cda1" name="kursServerUml">
+    <elementDefinition Id="aa3078db-6bc3-4b7a-9a4f-3fcbb7c4660f" />
+    <profileInstances>
+      <packageHasProfileInstances Id="3e72e384-4b69-4b6b-969a-67f5a1c37686">
+        <profileInstance Id="4563a476-d8e3-48a9-80a8-8c53e07b4de5" name="StandardProfileL2">
+          <elementDefinition Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791" />
+        </profileInstance>
+        <elementDefinition Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b" />
+      </packageHasProfileInstances>
+      <packageHasProfileInstances Id="03a250f8-623c-4bd4-95c7-9034f63d48a0">
+        <profileInstance Id="1e7328eb-62ba-4656-a467-f9131001960e" name="StandardProfileL3">
+          <elementDefinition Id="532ea607-fb19-44b8-8502-3351b05452be" />
+        </profileInstance>
+        <elementDefinition Id="29349502-908c-4fda-9054-c48619c59ed0" />
+      </packageHasProfileInstances>
+    </profileInstances>
+  </package>
+</logicalClassDesignerModel>

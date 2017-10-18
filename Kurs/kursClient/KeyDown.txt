@@ -1,0 +1,49 @@
+public void TB_KeyDown(object sender,KeyEventArgs e)
+{
+	switch(e.KeyCode)
+	{
+		case Keys.Left:
+			this.isRight=false;
+			this.isMove=true;
+			break;
+		case Keys.Right:
+			this.isRight =true;
+			this.isMove=true;
+			break;
+	}
+}
+
+public void TB_KeyUp(object sender,KeyEventArgs e)
+{
+	switch(e.KeyCode)
+	{
+		case Keys.Left:
+			if(isRight==false)
+			this.isMove=false;
+			break;
+		case Keys.Right:
+			if(isRight==true)
+			this.isMove=false;
+			break;
+	}
+}
+// во вторичном потоке где шарик летает
+
+if(this.isMove)
+{
+	if(this.isRight==false)
+	{
+		if(this.platFormX>=0)
+		{
+			this.platFormX	-=2;
+		}
+	}
+	else
+	{
+		if(this.platFormX+GameFiled.platFormW < GameField.wrkCols)
+		{
+			this.platFormX+=2;
+		}
+	}
+
+}

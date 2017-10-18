@@ -1,0 +1,54 @@
+c:\users\08087\documents\visual studio 2015\Projects\kursClient\kursClient\bin\Debug\kursClient.exe.config
+c:\users\08087\documents\visual studio 2015\Projects\kursClient\kursClient\bin\Debug\kursClient.exe
+c:\users\08087\documents\visual studio 2015\Projects\kursClient\kursClient\bin\Debug\kursClient.pdb
+c:\users\08087\documents\visual studio 2015\Projects\kursClient\kursClient\obj\Debug\kursClient.csprojResolveAssemblyReference.cache
+c:\users\08087\documents\visual studio 2015\Projects\kursClient\kursClient\obj\Debug\kursClient.GameField.resources
+c:\users\08087\documents\visual studio 2015\Projects\kursClient\kursClient\obj\Debug\kursClient.Properties.Resources.resources
+c:\users\08087\documents\visual studio 2015\Projects\kursClient\kursClient\obj\Debug\kursClient.csproj.GenerateResource.Cache
+c:\users\08087\documents\visual studio 2015\Projects\kursClient\kursClient\obj\Debug\kursClient.exe
+c:\users\08087\documents\visual studio 2015\Projects\kursClient\kursClient\obj\Debug\kursClient.pdb
+C:\Users\08087\Documents\TMP\kursClient\kursClient\bin\Debug\kursClient.exe.config
+C:\Users\08087\Documents\TMP\kursClient\kursClient\obj\Debug\kursClient.exe
+C:\Users\08087\Documents\TMP\kursClient\kursClient\obj\Debug\kursClient.pdb
+C:\Users\08087\Documents\TMP\kursClient\kursClient\bin\Debug\kursClient.exe
+C:\Users\08087\Documents\TMP\kursClient\kursClient\bin\Debug\kursClient.pdb
+C:\Users\08087\Documents\TMP\kursClient\kursClient\obj\Debug\kursClient.csprojResolveAssemblyReference.cache
+C:\Users\08087\Documents\TMP\kursClient\kursClient\obj\Debug\kursClient.Properties.Resources.resources
+C:\Users\08087\Documents\TMP\kursClient\kursClient\obj\Debug\kursClient.csproj.GenerateResource.Cache
+C:\Users\08087\Documents\TMP\kursClient\kursClient\obj\Debug\kursClient.Form1.resources
+C:\Users\08087\Documents\Kurs\kursClient\kursClient\bin\Debug\kursClient.exe.config
+C:\Users\08087\Documents\Kurs\kursClient\kursClient\obj\Debug\kursClient.exe
+C:\Users\08087\Documents\Kurs\kursClient\kursClient\obj\Debug\kursClient.pdb
+C:\Users\08087\Documents\Kurs\kursClient\kursClient\bin\Debug\kursClient.exe
+C:\Users\08087\Documents\Kurs\kursClient\kursClient\bin\Debug\kursClient.pdb
+C:\Users\08087\Documents\Kurs\kursClient\kursClient\obj\Debug\kursClient.csprojResolveAssemblyReference.cache
+C:\Users\08087\Documents\Kurs\kursClient\kursClient\obj\Debug\kursClient.Form1.resources
+C:\Users\08087\Documents\Kurs\kursClient\kursClient\obj\Debug\kursClient.Properties.Resources.resources
+C:\Users\08087\Documents\Kurs\kursClient\kursClient\obj\Debug\kursClient.csproj.GenerateResource.Cache
+E:\TMP\Kurs\kursClient\kursClient\bin\Debug\kursClient.exe.config
+E:\TMP\Kurs\kursClient\kursClient\obj\Debug\kursClient.exe
+E:\TMP\Kurs\kursClient\kursClient\obj\Debug\kursClient.pdb
+C:\Users\08087\Documents\TMP\kursClient\kursClient\obj\Debug\kursClient.Form2.resources
+C:\Users\08087\Documents\Kurs\Last\kursClient\kursClient\bin\Debug\kursClient.exe.config
+C:\Users\08087\Documents\Kurs\Last\kursClient\kursClient\obj\Debug\kursClient.exe
+C:\Users\08087\Documents\Kurs\Last\kursClient\kursClient\obj\Debug\kursClient.pdb
+C:\Users\08087\Documents\Kurs\Last\kursClient\kursClient\bin\Debug\kursClient.exe
+C:\Users\08087\Documents\Kurs\Last\kursClient\kursClient\bin\Debug\kursClient.pdb
+C:\Users\08087\Documents\Kurs\Last\kursClient\kursClient\obj\Debug\kursClient.csprojResolveAssemblyReference.cache
+C:\Users\08087\Documents\Kurs\Last\kursClient\kursClient\obj\Debug\kursClient.Form1.resources
+C:\Users\08087\Documents\Kurs\Last\kursClient\kursClient\obj\Debug\kursClient.Form2.resources
+C:\Users\08087\Documents\Kurs\Last\kursClient\kursClient\obj\Debug\kursClient.Properties.Resources.resources
+C:\Users\08087\Documents\Kurs\Last\kursClient\kursClient\obj\Debug\kursClient.csproj.GenerateResource.Cache
+C:\Users\08087\Documents\Kurs\kursClient\kursClient\obj\Debug\kursClient.Form2.resources
+C:\Users\08087\Documents\Kurs\kursClient\kursClient\obj\Debug\kursClient.Form3.resources
+C:\Users\08087\Documents\Kurs\Kurs\kursClient\kursClient\bin\Debug\kursClient.exe.config
+C:\Users\08087\Documents\Kurs\Kurs\kursClient\kursClient\obj\Debug\kursClient.exe
+C:\Users\08087\Documents\Kurs\Kurs\kursClient\kursClient\obj\Debug\kursClient.pdb
+C:\Users\08087\Documents\Kurs\Kurs\kursClient\kursClient\bin\Debug\kursClient.exe
+C:\Users\08087\Documents\Kurs\Kurs\kursClient\kursClient\bin\Debug\kursClient.pdb
+C:\Users\08087\Documents\Kurs\Kurs\kursClient\kursClient\obj\Debug\kursClient.csprojResolveAssemblyReference.cache
+C:\Users\08087\Documents\Kurs\Kurs\kursClient\kursClient\obj\Debug\kursClient.Form1.resources
+C:\Users\08087\Documents\Kurs\Kurs\kursClient\kursClient\obj\Debug\kursClient.Form2.resources
+C:\Users\08087\Documents\Kurs\Kurs\kursClient\kursClient\obj\Debug\kursClient.Form3.resources
+C:\Users\08087\Documents\Kurs\Kurs\kursClient\kursClient\obj\Debug\kursClient.Properties.Resources.resources
+C:\Users\08087\Documents\Kurs\Kurs\kursClient\kursClient\obj\Debug\kursClient.csproj.GenerateResource.Cache

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<logicalClassDesignerDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="UMLClassDiagram1">
+  <logicalClassDesignerModelMoniker Id="03f6387e-d19d-4542-ae3e-73f58d5e45ac" />
+  <nestedChildShapes>
+    <classShape Id="05ca78b2-f291-4178-b467-49fb3d9f692d" absoluteBounds="1.625, 1.125, 1.5, 1.3828124701976781" hideQualifiedName="false" increaseHeight="0" customColor="181, 193, 223">
+      <classMoniker Id="69f49a0e-5a38-4ac9-9290-51f6c96b899d" LastKnownName="Player" />
+      <nestedChildShapes>
+        <AttributeElementListCompartment Id="da3bbd7b-caea-4771-834a-c23cb7743efa" absoluteBounds="1.6400000000000001, 1.5150000000000001, 1.4700000000000002, 0.68164060264825821" name="AttributesCompartment" titleTextColor="Black" itemTextColor="Black" />
+        <OperationElementListCompartment Id="5426a427-326b-4743-b3fa-e781a542a608" absoluteBounds="1.64, 2.2066406026482586, 1.4700000000000002, 0.20117186754941963" name="OperationsCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="8baa7a56-e7b5-42d1-bac0-a65f429b49b4" absoluteBounds="4.375, 1.375, 1.5, 1.0624999801317849" hideQualifiedName="false" increaseHeight="0" customColor="181, 193, 223">
+      <classMoniker Id="6ca5c08e-0f8e-4985-9114-e4e97dbc8eba" LastKnownName="Game" />
+      <nestedChildShapes>
+        <AttributeElementListCompartment Id="45f62e62-8f2e-4cf8-8065-6e0be1719640" absoluteBounds="4.39, 1.7650000000000001, 1.4700000000000002, 0.36132811258236563" name="AttributesCompartment" titleTextColor="Black" itemTextColor="Black" />
+        <OperationElementListCompartment Id="41f2e080-4932-4556-9982-f747ef8cd2a8" absoluteBounds="4.39, 2.1363281125823654, 1.4700000000000002, 0.2011718675494194" name="OperationsCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="008342be-1eee-41b9-bb9c-0e8ee0535903" absoluteBounds="6.375, 1.375, 1.5, 1.2226562251647315" hideQualifiedName="false" increaseHeight="0" customColor="181, 193, 223">
+      <classMoniker Id="433888a1-3d6b-4035-b4d6-46cc6f5a4f50" LastKnownName="Bombs" />
+      <nestedChildShapes>
+        <AttributeElementListCompartment Id="632e3942-64c0-4d98-82af-42748be8fc4d" absoluteBounds="6.39, 1.7650000000000001, 1.4700000000000002, 0.52148435761531187" name="AttributesCompartment" titleTextColor="Black" itemTextColor="Black" />
+        <OperationElementListCompartment Id="1976b63b-ccc8-4afa-b70a-b9fa61c031b1" absoluteBounds="6.39, 2.296484357615312, 1.4700000000000002, 0.20117186754941951" name="OperationsCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a060b3ef-e1e1-4677-8259-a8fbd1ea7079" absoluteBounds="2, 3.75, 1.5, 1.0624999801317845" hideQualifiedName="false" increaseHeight="0" customColor="181, 193, 223">
+      <classMoniker Id="1a2469ca-6db3-43fc-a960-387f075dd069" LastKnownName="ThReadWriter" />
+      <nestedChildShapes>
+        <AttributeElementListCompartment Id="468cddc0-2ec9-4626-b683-c3a27ba51d45" absoluteBounds="2.015, 4.14, 1.4700000000000002, 0.36132811258236563" name="AttributesCompartment" titleTextColor="Black" itemTextColor="Black" />
+        <OperationElementListCompartment Id="84e13124-e69f-46cb-9911-7c00bdd86823" absoluteBounds="2.015, 4.5113281125823654, 1.4700000000000002, 0.2011718675494194" name="OperationsCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="74342af3-d9ef-491b-ada4-ef5150a9eec8" absoluteBounds="5.25, 3.75, 1.5, 1.2226562251647311" hideQualifiedName="false" increaseHeight="0" customColor="181, 193, 223">
+      <classMoniker Id="b8a0f7db-fb4e-4248-84c2-7ef851b0f804" LastKnownName="ThreadServer" />
+      <nestedChildShapes>
+        <AttributeElementListCompartment Id="4e269b94-c316-45e9-97c6-90d6f7d6affe" absoluteBounds="5.265, 4.14, 1.4700000000000002, 0.52148435761531187" name="AttributesCompartment" titleTextColor="Black" itemTextColor="Black" />
+        <OperationElementListCompartment Id="71c8721e-5bf7-4996-8c35-6189738fb863" absoluteBounds="5.265, 4.671484357615312, 1.4700000000000002, 0.20117186754941951" name="OperationsCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</logicalClassDesignerDiagram>
